@@ -19,6 +19,9 @@
     <lightning:card title="Creación de Pedido">
         {!v.accountId}
         <!-- Buscador -->
+
+        <!-- Añadimos un comentario -->
+
         <div class="slds-grid">
             <div class="slds-col slds-align-bottom" style="margin-top:10px">
                 <c:SearchBarCmp />
